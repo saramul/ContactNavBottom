@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_show_contact"
+        android:icon="@drawable/ic_list"
+        android:title="Show Contacts"/>
+    <item android:id="@+id/menu_add_contact"
+        android:icon="@drawable/ic_person_add"
+        android:title="Add Contact"/>
+    <item android:id="@+id/menu_search_contact"
+        android:icon="@drawable/ic_find"
+        android:title="Search Contact"/>
+</menu>
